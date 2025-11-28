@@ -1,0 +1,27 @@
+{
+  "name": "1128expressdolgozat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozsa-Richard/1128ExpressDolgozat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rozsa-Richard/1128ExpressDolgozat/issues"
+  },
+  "homepage": "https://github.com/Rozsa-Richard/1128ExpressDolgozat#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.4.6",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
