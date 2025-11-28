@@ -30,7 +30,7 @@ app.put("/api/cars/:id", (req, res) => {
     return res.status(200).json({message: "Sikeresen módosítottad"})
 });
 
-app.listen(2000, ()=> {
+app.listen(3211, ()=> {
     console.log("run on 2000");
 });
 
